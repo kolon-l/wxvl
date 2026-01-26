@@ -17171,5 +17171,6 @@
     "https://mp.weixin.qq.com/s/QeTajwMfx-Ql-bY5-dR-dg": "CVE-2025-38352 Part 2 - 无需内核补丁延长竞争窗口",
     "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】",
     "https://mp.weixin.qq.com/s/mQ3XSZ-tw1ldGrNKCz59vw": "企业管理类系统常见漏洞挖掘指北",
-    "https://mp.weixin.qq.com/s/gkQOfK6TbjYNay4RDXeRuQ": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具"
+    "https://mp.weixin.qq.com/s/gkQOfK6TbjYNay4RDXeRuQ": "警惕！GNU Inetutils telnetd 9.8分高危漏洞来袭，附批量可视化检测工具",
+    "https://mp.weixin.qq.com/s/wS-RF_RWWok9W-tjcTcjSA": "CVE-2025-55182 的 POC，可在 Next.js 16.0.6 上运行"
 }
