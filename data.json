@@ -17394,5 +17394,6 @@
     "https://mp.weixin.qq.com/s/SzVM74aihSiJSGP684TChA": "SolarWinds 修复四个严重漏洞，可导致未认证RCE和认证绕过",
     "https://mp.weixin.qq.com/s/Ue5qSeokPG4SokP7_bBOwA": "奇安信获NVDB-CAVD年度优秀技术支撑单位 10项原创漏洞证书彰显车联网安全实力",
     "https://mp.weixin.qq.com/s/lWrMvRHJz7XZFILqV-Pvyg": "通过沙箱逃逸在 n8n 上实现远程代码执行 - CVE-2026-1470 和 CVE-2026-0863",
-    "https://mp.weixin.qq.com/s/PM-8fL98qmAVM0c1qJ_hlA": "CVE-2022-4223 pgAdmin = 6.16 未授权命令执行漏洞"
+    "https://mp.weixin.qq.com/s/PM-8fL98qmAVM0c1qJ_hlA": "CVE-2022-4223 pgAdmin = 6.16 未授权命令执行漏洞",
+    "https://mp.weixin.qq.com/s/Qpbw1qQqhEPsoXzfqTklig": "微软Office曝高危漏洞、耐克遭勒索攻击|一周特辑"
 }
